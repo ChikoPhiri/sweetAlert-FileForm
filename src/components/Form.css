@@ -1,0 +1,31 @@
+form {
+  height: 400px;
+  width: 30%;
+  background-color: rgb(182, 196, 225);
+  border-radius: 20px;
+  justify-content: center;
+  justify-items: center;
+  margin-left: 400px;
+}
+li {
+  list-style-type: none;
+  text-align: start;
+}
+label {
+  text-align: center;
+}
+input {
+  border-radius: 5px;
+  border: none;
+  width: 70%;
+  text-align: start;
+  height: 30px;
+}
+button {
+  background-color: rgb(70, 70, 105);
+  border-radius: 5px;
+  border: none;
+  margin: 10px;
+  height: 30px;
+  color: aliceblue;
+}
